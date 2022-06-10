@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-#Ministerio del Ruido Podcast
+# Ministerio del Ruido Podcast
 ======
 
 ## Season Three
-======
+
 * **3x03 - Kinguisar, Fontanas DC, Wet Leg y Pusha T**
 
 Segundo episodio consecutivo en el que traemos una rima con Kawasaki y tercero de la temporada 3. Estamos de enhorabuena cada vez que los cocodrilos sacan disco,
