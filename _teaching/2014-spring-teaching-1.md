@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "CESAR Project"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Outreach"
+permalink: /teaching/2019-cesar-project
+venue: "European Space Astronomy Centre"
+date: 2019
+location: "Madrid, Spain"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+CESAR is an educational ESA initiative whose main objective is to engage secondary school students with the wonders of astronomy and, more generally, science and technology.
+https://cesar.esa.int/index.php?Section=Team_Diego_Moral_Pombo
