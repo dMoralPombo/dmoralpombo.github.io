@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Podcast"
+title: "Ministerio del Ruido Podcast"
 permalink: /podcast/
 author_profile: true
 redirect_from:
@@ -8,9 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-# Ministerio del Ruido Podcast
-======
 
 ## Season Three
 
@@ -36,9 +33,17 @@ Además de pasar obligatoriamente por lo de Rosalía como si fuésemos unos Alto
 House, así como lo de Caroline, otro debut destacado de niños prodigio ingleses. Especial foco también en la Secretaría de Chalecos con parches del Ministerio, 
 en la que repasamos discos de sospechosos habituales como Cult of Luna pero también novedades de Zeal and Ardor, Messa (estupendas) o Blood Incantation (NO-estupendos).
 
-https://go.ivoox.com/rf/85470055
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1Xhi5qZDlGSArNyn0D9k7M?utm_source=generator&theme=0" width="80%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+* **3x01 -Black Country New Road, Animal Collective, Toundra, Carolinos...
+
+Después de un largo descanso le tomamos el pulso a las primeras semanas del 2022 con una buena pila de discos. Si en 2021 a todos nos flipó el debut de Black Country, ojito a lo que han sacado este año... Traemos también la preceptiva ración de heavy-psych fumeta de la mano de Earthless, a los Animal Collective en modo rave (pero bien). En el apartado nacional celebramos el regreso de Toundra y los Carolina Durante; en el hispano, el descubrimiento de Silvana Estrada.
+
+Un episodio con bastantes sospechosos habituales, alguna vieja sorpresa, nuevos talentos y la promesa de un 2022 que, por lo menos a medio plazo, tiene bastante buena pinta en lo musical.
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/62n3jarGG0r6QFsVdTp5gZ?utm_source=generator&theme=1" width="80%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 ## Season Two
-======
+
 * Blablabla
   
