@@ -24,7 +24,7 @@ representado en forma de los discos de Pusha T y Denzel Curry, mientras que el m
 lo de crooners (o anticrooners) viejóvenes como Father John Misty, Orville Peck, Jack White o Kurt Vile. Cerramos semejante tanda con una banda de nuestras
 favoritas en el panorama estatal, los Biznagos, así como unos renacidos de entre las cenizas del slowcore de finales de los 90: los legendarios Duster.
 
-https://www.ivoox.com/player_ej_86934377_6_1.html
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7oIIHh0na5xtO1buuns8JV?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 * **3x02 - Beach House, Cult of Luna, Rosalía y un poco de tishoumaren**
 
